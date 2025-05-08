@@ -1,0 +1,6 @@
+@BiuroPodróżyAPI_HostAddress = http://localhost:5244
+
+GET {{BiuroPodróżyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
